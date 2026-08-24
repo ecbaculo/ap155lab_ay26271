@@ -9,7 +9,7 @@ Please read thru `ap155_0prelims.ipynb` and familizarize with the workflow. As a
 1. githubtocolab:
   - open the exercise in GitHub
   - change the URL from "https://github.com/..." to "https://githubtocolab.com/...)".
-  - In the colab file, **save a copy in Drive** and move it to our ![google drive folder](https://drive.google.com/drive/folders/1-1_0ij0YTPivspvIKJdjQHo_EqYexrMO?usp=drive_link)
+  - In the colab file, **save a copy in Drive** and move it to our [google drive folder](https://drive.google.com/drive/folders/1-1_0ij0YTPivspvIKJdjQHo_EqYexrMO?usp=drive_link)
   - solve the notebook
   - last editing time is submission time by default
   
@@ -22,7 +22,7 @@ Please read thru `ap155_0prelims.ipynb` and familizarize with the workflow. As a
   - to bring in only 1 specific folder or notebook:
     - `git checkout upstream/main -- ap155_1IdiomPlot_surname.ipynb` # pull single file
     - `git checkout upstream/main -- figures` # pull entire folder
-  - solve the notebook, download and submit in our ![google drive folder](https://drive.google.com/drive/folders/1-1_0ij0YTPivspvIKJdjQHo_EqYexrMO?usp=drive_link)
+  - solve the notebook, download and submit in our [google drive folder](https://drive.google.com/drive/folders/1-1_0ij0YTPivspvIKJdjQHo_EqYexrMO?usp=drive_link)
   - last editing time is submission time by default
   - `git add .` # stage the new folder/notebook
   - `git commit -m` "Add updated notebook from upstream"
