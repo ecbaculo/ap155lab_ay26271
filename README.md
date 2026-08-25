@@ -4,7 +4,9 @@ Computer Methods in Physics I
 
 This repository hosts the python notebook exercises of NIP-UPD.
 
-Please read thru `ap155_0prelims.ipynb` and familizarize with the workflow. As a start, you may do one of the following:
+Please read thru `ap155_0prelims.ipynb` and familizarize with the workflow. 
+
+To submit, you may use one of the following pipelines:
 
 1. githubtocolab:
   - open the exercise in GitHub
@@ -27,6 +29,5 @@ Please read thru `ap155_0prelims.ipynb` and familizarize with the workflow. As a
   - `git add .` # stage the new folder/notebook
   - `git commit -m` "Add updated notebook from upstream"
   - `git push origin main` # to push the changes into your own GitHub fork
-  - if merge conflict arises 
   
   If you have any questions, please feel free to message us via Google Space chat.
